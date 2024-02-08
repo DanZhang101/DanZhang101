@@ -1,10 +1,10 @@
 <img alt="Coding Girl" src="https://img.freepik.com/free-vector/software-programmer-girl-office-work-vector-design_107791-20453.jpg?w=2000&t=st=1707364523~exp=1707365123~hmac=49b96d771eb8d586ca83e199924d099513cf3cae72062887ad8ba287ec3eb9c8">
 <h1 align="center">Hi there 👋, I'm Jessie</h1>
-<h3 align="center">A passionate full stack developer from Canada</h3>
+<h3 align="center">A full stack developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jessie dan zhang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jessie dan zhang" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jessie-dan-z-97285a1aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jessie dan zhang" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
