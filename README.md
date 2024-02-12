@@ -1,4 +1,5 @@
-<img alt="Coding Girl" src="https://img.freepik.com/free-vector/software-programmer-girl-office-work-vector-design_107791-20453.jpg?w=2000&t=st=1707364523~exp=1707365123~hmac=49b96d771eb8d586ca83e199924d099513cf3cae72062887ad8ba287ec3eb9c8">
+![2304 w056 n005 193B p15 193](https://github.com/DanZhang101/DanZhang101/assets/110516741/ac652197-1477-4094-a8c4-cee62ee107c6)
+
 <h1 align="center">Hi there 👋, I'm Jessie</h1>
 <h3 align="center">A full stack developer</h3>
 
